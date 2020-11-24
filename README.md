@@ -11,10 +11,10 @@ What is an API? API stands for application programming interface - set of defini
 Why does it need to be secured? When working with two or more separate clouds holding a data set that needs to be orchestrated between them, the pipelines where the data is passed through must be secured to prevent data loss or theft. These cloud APIs define in what form the data will be passed in this pipeline - then this form is built right and secured - the data is safe. 
 
 Project goals:
-study cloud architectures in particular hybrid cloud
-isolate security issues and flaws in these architectures
-identify the important components of a secured API 
-design a new API security plugin for RedHat’’s OpenShift platform.
+- study cloud architectures in particular hybrid cloud
+- isolate security issues and flaws in these architectures
+- identify the important components of a secured API 
+- design a new API security plugin for RedHat’’s OpenShift platform.
 
 The project will be led by Dr. Amit Dvir from Ariel University & Luiza Nacshon from Red Hat.
 
